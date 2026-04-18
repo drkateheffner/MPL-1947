@@ -1,5 +1,5 @@
-field,display_name,browse_link,external_link
-title,Title,
+field,display_name,
+title,Title,browse_link,external_link
 creator,Creator,
 date,Date Created,
 description,Description,
